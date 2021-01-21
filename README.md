@@ -13,4 +13,7 @@
 
    →https://qiita.com/sudominoru/items/bf3bd96c6921d9106742
 
-resnet is resnet.ipynb
+  resnet is resnet.ipynb
+
+  HRnet semantic segmentation is MyHRnetSeg.ipynb
+  
